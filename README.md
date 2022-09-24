@@ -1,5 +1,5 @@
 # Hello! 
-#### I am **Olaf Siestrzykowski** also known as Olfis
+### I am **Olaf Siestrzykowski** also known as **Olfis**!
 
 I started to learn programming in June 2022. 
 
@@ -12,14 +12,15 @@ I am mostly interested in learning from data, automation and back-end programmin
 
 <details>
     <summary><b> Personal details </b></summary>
-        <sup>Name: Olaf<br>
+        <sub>Name: Olaf<br>
         Surname: Siestrzykowski<br>
         Artist name: Olfis<br>
         Age: 25 years old<br>
         City: Radom<br>
-        Country: Poland<br></sup>
-</details>
-    <details>
+        Country: Poland<br></sub>
+</details> 
+
+<details>
     <summary><b>🛠️ Languages & Tools</b></summary>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -37,3 +38,7 @@ I am mostly interested in learning from data, automation and back-end programmin
 
 I am also a Vegan :herb:
 and a Popping dancer :robot:
+
+## Contact me!
+
+:mailbox: olaf.siestrzykowski@gmail.com
