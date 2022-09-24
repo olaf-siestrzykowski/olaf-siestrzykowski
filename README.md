@@ -3,15 +3,15 @@
 
 I started to learn programming in June 2022. 
 
-- Python is my 1st language <img style="width: 28px; height:100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
+- Python is my 1st language <img style="width: 24px; height:100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
 
-- I'm coding in PyCharm <img style="width: 28px; height:100%;" src="https://apnsmb.pl/userdata/public/gfx/420.jpg"/>
+- I'm coding in PyCharm <img style="width: 24px; height:100%;" src="https://apnsmb.pl/userdata/public/gfx/420.jpg"/>
 
 I was doing online courses all the time.
-I am mostly interested in learning from data, automation and back-end programming.
+I am mostly interested in learning from data, automation and web development.
 
 <details>
-    <summary><b> Personal details </b></summary>
+    # <summary><b> :man: Personal details </b></summary>
         <sub>Name: Olaf<br>
         Surname: Siestrzykowski<br>
         Artist name: Olfis<br>
@@ -21,7 +21,7 @@ I am mostly interested in learning from data, automation and back-end programmin
 </details> 
 
 <details>
-    <summary><b>🛠️ Languages & Tools</b></summary>
+    # <summary><b>🛠️ Languages & Tools</b></summary>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
