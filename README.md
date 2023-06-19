@@ -3,7 +3,7 @@
 
 I started my programming journey in June 2022 and have been passionate about it ever since. I primarily work with Python, a versatile and powerful language for various applications.
 
-### Languages and Tools
+### Main language and IDE
 - Python: My main programming language <img style="width: 24px; height:100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
 
 - IDE: PyCharm is my preferred integrated development environment for Python. It enhances my coding experience and boosts productivity <img style="width: 24px; height:100%;" src="https://apnsmb.pl/userdata/public/gfx/420.jpg"/>
