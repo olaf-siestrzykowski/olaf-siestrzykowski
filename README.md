@@ -17,7 +17,7 @@ Feel free to explore my GitHub repositories to see the projects I have worked on
 
 <details>
      <summary><b> 🛠️ Languages & Tools</b></summary>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)]
 </details>
 
 ## Contact me!
