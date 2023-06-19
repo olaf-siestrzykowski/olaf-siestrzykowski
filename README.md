@@ -17,8 +17,7 @@ Feel free to explore my GitHub repositories to see the projects I have worked on
 
 <details>
      <summary><b> 🛠️ Languages & Tools</b></summary>
-    [![My Skills](https://skills.thijs.gg/icons?i=py,mysql,postgres,html,css,js,docker,git&theme=light)](https://skills.thijs.gg)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </details>
 
 ## Contact me!
